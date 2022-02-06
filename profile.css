@@ -27,7 +27,6 @@ header{
     width:80%;
     margin-left:7%;
     margin-top: 4%;
-    background-clip: ;
 }
 .imgDiv{
     height:400px;
@@ -70,6 +69,7 @@ header{
 }
 /* footer start */
 footer{
-    height: 200px;
-    background-color: whitesmoke;
+    width:100%;
+    display: inline-block;
+    text-align: center;
 }
