@@ -46,10 +46,10 @@ header{
     margin-top: -3%;
 }
 .code{
-    height:400px;
+    height:300px;
     width:23%;
     float:left;
-    margin:2%;
+    margin:1%;
     color:whitesmoke
 }
 .code > img {
@@ -58,7 +58,8 @@ header{
 }
 #skills{
     width:100%;
-    display: inline-block;
+    margin-top: 2%;
+    display: inline-block
 }
 #location{
     height:350px;
@@ -67,5 +68,5 @@ header{
 /* footer start */
 footer{
     height: 200px;
-    background-color: brown;
+    background-color: whitesmoke;
 }
